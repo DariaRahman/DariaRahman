@@ -1,7 +1,6 @@
 # Hi there 👋, my name's Daria
-### Design and Development
 
-
+## Design and Development
 A human seeking a full stack of pancakes and software, bug free 😅🥞 I'm Daria from Belarus, and I do content on Design and Development. I'm really enjoy learning languages, frameworks, ui, ux, and design in general. I'm also fond of game dev and create 2D and pixel graphics for it 👾
 
 ## Skils and Experience 
