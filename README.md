@@ -14,8 +14,12 @@ A human seeking a full stack of pancakes and software, bug free 😅🥞 I'm Dar
 
 ## Examples of Work
 
-<img src='https://user-images.githubusercontent.com/94872418/147397611-8e6a2cec-3280-4dd2-ab67-be3f36d6eb50.jpg' width = '300'>
-<img src='https://user-images.githubusercontent.com/94872418/147397796-ba141c46-a7b8-4968-a2c9-55aa3b9d9b6a.mp4' width = '300'>
+<img src='https://user-images.githubusercontent.com/94872418/147397611-8e6a2cec-3280-4dd2-ab67-be3f36d6eb50.jpg' width = '380'>
+<img src='https://user-images.githubusercontent.com/94872418/147397888-8f83876e-c56f-4a00-9686-24d847de81d9.mp4' width = '380'>
+
+
+
+
 
 
 
