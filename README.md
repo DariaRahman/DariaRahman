@@ -13,11 +13,8 @@ A human seeking a full stack of pancakes and software, bug free 😅🥞 I'm Dar
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DariaRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Darya-Rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jolie_libre/)  
 
 ## Examples of Work
-<img src='https://user-images.githubusercontent.com/94872418/147397611-8e6a2cec-3280-4dd2-ab67-be3f36d6eb50.jpg' width = '330'>
-<img src='https://user-images.githubusercontent.com/94872418/147397761-b71a6241-45c4-4d27-b418-e1ef1e7117b5.mp4' width = '330'>
-
-
-
+<img src='https://user-images.githubusercontent.com/94872418/147397611-8e6a2cec-3280-4dd2-ab67-be3f36d6eb50.jpg' width = '300'>
+<img src='https://user-images.githubusercontent.com/94872418/147397786-a4008b45-9f23-452a-ab15-08956213c21d.mp4' width = '300'>
 
 
 
