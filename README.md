@@ -4,7 +4,7 @@
 
 A human seeking a full stack of pancakes and software, bug free 😅🥞 I'm Daria from Belarus, and I do content on Design and Development. I'm really enjoy learning languages, frameworks, ui, ux, and design in general. I'm also fond of game dev and create 2D and pixel graphics for it 👾
 
-Skills: C++ / C# / Python / JS / HTML / CSS
+● 🛠  C++, C#, Python
 
 - 🔭 I’m currently working on projects that will change the world  
 - 🌱 I’m currently learning Ruby 
