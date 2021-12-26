@@ -13,7 +13,7 @@ A human seeking a full stack of pancakes and software, bug free 😅🥞 I'm Dar
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DariaRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Darya-Rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jolie_libre/)  
 
 ## Examples of Work
-<img src='https://user-images.githubusercontent.com/94872418/147396579-2dcc2759-aa97-4a61-bc48-6ffe6fe1cd34.jpg' width = '300'>
+<img src='https://user-images.githubusercontent.com/94872418/147396579-2dcc2759-aa97-4a61-bc48-6ffe6fe1cd34.jpg' width = '350'>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DariaRahman)
