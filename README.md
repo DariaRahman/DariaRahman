@@ -17,6 +17,10 @@ A human seeking a full stack of pancakes and software, bug free 😅🥞 I'm Dar
 <img src='https://user-images.githubusercontent.com/94872418/147397786-a4008b45-9f23-452a-ab15-08956213c21d.mp4' width = '300'>
 
 
+https://user-images.githubusercontent.com/94872418/147397796-ba141c46-a7b8-4968-a2c9-55aa3b9d9b6a.mp4
+
+
+
 
 
 
